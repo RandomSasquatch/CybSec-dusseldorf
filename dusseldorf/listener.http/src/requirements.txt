@@ -67,7 +67,7 @@ setuptools==78.1.1
 six==1.17.0
 tomli==2.2.1
 typing_extensions==4.12.2
-urllib3==2.6.3
+urllib3==2.7.0
 wheel
 wrapt==1.17.2
 zipp==3.21.0
