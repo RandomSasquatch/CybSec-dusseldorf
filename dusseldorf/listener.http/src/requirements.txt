@@ -19,7 +19,7 @@ fixedint==0.1.6
 google-api-core==2.24.1
 google-auth==2.38.0
 googleapis-common-protos==1.66.0
-idna==3.10
+idna==3.15
 importlib_metadata==8.5.0
 iniconfig==2.0.0
 isodate==0.7.2
